@@ -1,16 +1,27 @@
-# Ricerca
-# Project Title
+# Tech Army
+## Ricerca
 
 An Android app which will take the user twitter handle from input and recommend them something based on the Sentiments we received from
 the analysis of the tweets that can be joy, anger, sadness and more.
 
-## Getting Started
+## Working demo 
 
-To run, just import the project from VCS in android studio
+Here is the app download link [Ricerca](https://drive.google.com/open?id=1dX47271mP0Ze6Fd5bwkIMt80RcXE_ams).To run, you will need android 6.0 or more.  
+
+Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.  
+
+
+## Code  
+
+
+The code directory contains all the requires code. It it divided into android and python.  
+
+* **Running android code** - Just import the code into android, build and run.
+* **Running python code** 
 
 ### Prerequisites
 
-Here is the app link : [Ricerca](https://drive.google.com/open?id=1dX47271mP0Ze6Fd5bwkIMt80RcXE_ams)
+
 To run, you will need android 6.0 or more.
 
 ### Installing
@@ -38,7 +49,7 @@ You can deploy it using android studio
 
 ## Authors
 ### Tech Army  
-Here is the list of team members and their roles
+Here is the list of team members and their roles:
 * **Rohit Sharma** -   Java code, Front end 
 * **Akhil Chandail** -   Java code, Front end
 * **Parush Gupta** -     Python code, Back end 
@@ -50,9 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-This project was created for IBM hackathon and is under maintainence till forever.
-
-Thanks to vivek, akhil and parush for showing motivation at right time.
-
-I want to dedicate this project to my favourite character, Heisenberg(Breaking bad) and Tyler Durden(Fight club).
+This project was created for IBM HackChallenge 2018.
 
