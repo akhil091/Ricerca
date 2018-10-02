@@ -42,7 +42,7 @@ This will start flask local server for the python code.
 **Running tests on server**    
 
 Just run :
-
+    pip install requests
     python test_server.py
 
 This script will make a Http post request to our local flask server. If everything went fine you'll  see the json response printed to the terminal.
