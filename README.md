@@ -35,15 +35,14 @@ You can deploy it using android studio
 * [Json](https://developer.android.com/reference/org/json/JSONObject) - Used to parse the data from server 
 * [Materials design](terial.google.com) - for android studio
 
-## Contributing
-
-Please read description [License](https://github.com/rohit9934/Ricerca/blob/master/MITLicense) for details on our code of conduct.
-For getting a pull request for backend python code contact my friend or willing to contribute something, [Vivek Singh Rathore](https://github.com/vivek-singh-rathore) else if you want to contribute to android studio code, contact me.
-
 
 ## Authors
 
-* **Rohit Sharma** - *Java code, Front end Maintanence* - [Rohit](https://github.com/rohit9934)
+* **Rohit Sharma** -   *Java code, Front end * 
+* **Akhil Chandail** -   *Java code, Front end *
+* **Parush Gupta** -     *Python code, Back end *
+* **Vivek Singh Rahtore** -   *Python code, Back end *
+
 
 See also the list of [contributors](https://github.com/rohit9934/Ricerca/contributors) who participated in this project.
 
