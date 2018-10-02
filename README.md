@@ -8,7 +8,7 @@ the analysis of the tweets that can be joy, anger, sadness and more.
 
 ## Working demo 
 
-Here is the app download link [Ricerca](https://drive.google.com/open?id=1dX47271mP0Ze6Fd5bwkIMt80RcXE_ams).To run, you will need android 6.0 or more.  
+Here is the app download link [Ricerca](https://drive.google.com/open?id=1dX47271mP0Ze6Fd5bwkIMt80RcXE_ams). To run, you will need android 6.0 or more.  
 
 Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.  
 
@@ -19,13 +19,29 @@ The code directory contains all the requires code. It it divided into android an
 
 **Android code**  
 
-Just import the code into android, build and run.  
+Just import the code into android studio, build and run.  
 
 **Python code**    
 
 ### Prerequisites for python code
 
-Python version used is 3.5 . To install other dependencies 
+Python version used is 3.5 . To install other dependencies run:  
+
+**pip install -r requirements.txt** in python code directory.
+
+### Running Flask server locally  
+
+In python code directory run:  
+
+**python tone_test_ver3.py**  
+
+This will start flask local server for our python code.
+
+### Running tests on server  
+
+Just run the test_server.py script that makes a Http post request to our local flask server. If everything went fine you'll  
+
+see the json response printed to the terminal.
 
 
 ### Installing
