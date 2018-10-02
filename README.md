@@ -44,15 +44,6 @@ Just run the test_server.py script that makes a Http post request to our local f
 see the json response printed to the terminal.
 
 
-### Installing
-
-Download the app from link and then click on install anyway option
-
-Enter the user twitter handle and then click on Enter button to get results.
-
-## Running the tests
-
-
 ## Deployment
 
 The python code is deployed using the IBM CloudFoundry platform, for more details [look](https://www.ibm.com/cloud/cloud-foundry)
