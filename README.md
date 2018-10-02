@@ -17,8 +17,6 @@ To run, you will need android 6.0 or more.
 
 Download the app from link and then click on install anyway option
 
-And repeat
-
 Enter the user twitter handle and then click on Enter button to get results.
 
 ## Running the tests
@@ -32,7 +30,7 @@ You can deploy it using android studio
 
 ## Built With
 
-* [Python 3.6](https://www.python.org/downloads/) - The backend programming language
+* [Python 3.5](https://www.python.org/downloads/) - The backend programming language
 * [Flask](http://flask.pocoo.org/) - Web framework used
 * [Json](https://developer.android.com/reference/org/json/JSONObject) - Used to parse the data from server 
 * [Materials design](terial.google.com) - for android studio
