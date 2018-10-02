@@ -1,7 +1,7 @@
 # Tech Army
 ## Ricerca  
 
-Logo: ![Alt](/logo.jpeg "Title")  
+![Logo](/logo.png "Title")  
 
 An Android app which will take the user twitter handle as input and recommend them something based on the sentiments received from
 the analysis of the tweets that can be joy, anger, sadness and more.
