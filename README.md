@@ -23,7 +23,7 @@ Just import the code into android studio, build and run.
 
 ### Python code    
 
-*For commands to work you must be int the python code directory.*  
+*For commands to work you must be in the python code directory.*  
 
 **Prerequisites for python code**  
 
