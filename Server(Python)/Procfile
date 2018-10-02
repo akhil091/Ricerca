@@ -1,1 +1,0 @@
-web: gunicorn tone_test:app

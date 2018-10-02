@@ -1,0 +1,5 @@
+Flask==1.0.2
+tweepy==3.6.0
+watson-developer-cloud==2.1.0
+
+
