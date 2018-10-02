@@ -75,6 +75,8 @@ def Sentimize():
         if(flag==0):
             break
         page+=1
+        if(len(tweet_data>10):
+            break
         time.sleep(500)
     #---------------------#
     
