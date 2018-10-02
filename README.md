@@ -15,7 +15,7 @@ Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.
 
 ## Code  
 
-The code directory contains all the required code. It is divided into android and python.  
+The *code* directory contains all the required code. It is divided into android and python.  
 
 ### Android code  
 
@@ -28,7 +28,6 @@ Just import the code into android studio, build and run.
 [Python 3.5](https://www.python.org/downloads/) is required. To install other dependencies run:  
 
     pip install -r requirements.txt 
-In python code directory.
 
 **Running Flask server locally**  
 
