@@ -37,14 +37,12 @@ You can deploy it using android studio
 
 
 ## Authors
-
+### Tech Army  
+Here is the list of team members and their roles
 * **Rohit Sharma** -   Java code, Front end 
 * **Akhil Chandail** -   Java code, Front end
 * **Parush Gupta** -     Python code, Back end 
 * **Vivek Singh Rahtore** -   Python code, Back end 
-
-
-See also the list of [contributors](https://github.com/rohit9934/Ricerca/contributors) who participated in this project.
 
 ## License
 
