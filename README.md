@@ -27,7 +27,8 @@ Just import the code into android studio, build and run.
 
 [Python 3.5](https://www.python.org/downloads/) is required. To install other dependencies run:  
 
-    pip install -r requirements.txt in python code directory.
+    pip install -r requirements.txt 
+In python code directory.
 
 **Running Flask server locally**  
 
@@ -39,7 +40,7 @@ This will start flask local server for the python code.
 
 **Running tests on server**  
 
-Just run the test_server.py script that makes a Http post request to our local flask server. If everything went fine you'll  
+Just run the *test_server.py* script that makes a Http post request to our local flask server. If everything went fine you'll  
 
 see the json response printed to the terminal.
 
