@@ -43,7 +43,7 @@ Just run :
 
     python test_server.py
 
-This script will make a Http post request to our local flask server. If everything went fine you'll  see the json response printed to 
+This script will make a Http post request to our local flask server. If everything went fine you'll  see the json response printed to  
 
 the terminal.
 
