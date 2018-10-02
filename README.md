@@ -15,7 +15,7 @@ Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.
 
 ## Code  
 
-The code directory contains all the required code. It it divided into android and python.  
+The code directory contains all the required code. It is divided into android and python.  
 
 **Android code**  
 
@@ -25,7 +25,7 @@ Just import the code into android studio, build and run.
 
 ### Prerequisites for python code
 
-Python version used is 3.5 . To install other dependencies run:  
+[Python 3.5](https://www.python.org/downloads/) is used. To install other dependencies run:  
 
 **pip install -r requirements.txt** in python code directory.
 
@@ -35,7 +35,7 @@ In python code directory run:
 
 **python tone_test_ver3.py**  
 
-This will start flask local server for our python code.
+This will start flask local server for the python code.
 
 ### Running tests on server  
 
