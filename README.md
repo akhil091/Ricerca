@@ -23,6 +23,8 @@ Just import the code into android studio, build and run.
 
 ### Python code    
 
+*For commands to work you must be int the python code directory.*  
+
 **Prerequisites for python code**  
 
 [Python 3.5](https://www.python.org/downloads/) is required. To install other dependencies run:  
