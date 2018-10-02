@@ -17,27 +17,27 @@ Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.
 
 The code directory contains all the required code. It is divided into android and python.  
 
-**Android code**  
+### Android code  
 
 Just import the code into android studio, build and run.  
 
-**Python code**    
+### Python code    
 
-### Prerequisites for python code
+**Prerequisites for python code**
 
-[Python 3.5](https://www.python.org/downloads/) is used. To install other dependencies run:  
+[Python 3.5](https://www.python.org/downloads/) is required. To install other dependencies run:  
 
 **pip install -r requirements.txt** in python code directory.
 
-### Running Flask server locally  
+*Running Flask server locally*  
 
 In python code directory run:  
 
-**python tone_test_ver3.py**  
+*python tone_test_ver3.py*  
 
 This will start flask local server for the python code.
 
-### Running tests on server  
+**Running tests on server**  
 
 Just run the test_server.py script that makes a Http post request to our local flask server. If everything went fine you'll  
 
