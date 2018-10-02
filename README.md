@@ -1,7 +1,9 @@
 # Tech Army
-## Ricerca
+## Ricerca  
 
-An Android app which will take the user twitter handle from input and recommend them something based on the Sentiments we received from
+Logo: ![Alt](/logo.jpeg "Title")  
+
+An Android app which will take the user twitter handle as input and recommend them something based on the sentiments received from
 the analysis of the tweets that can be joy, anger, sadness and more.
 
 ## Working demo 
@@ -13,16 +15,18 @@ Here is video [link](https://youtu.be/Nmaqvk_t7TQ) of working app.
 
 ## Code  
 
-
 The code directory contains all the requires code. It it divided into android and python.  
 
-* **Running android code** - Just import the code into android, build and run.
-* **Running python code** 
+**Android code**  
 
-### Prerequisites
+Just import the code into android, build and run.  
 
+**Python code**    
 
-To run, you will need android 6.0 or more.
+### Prerequisites for python code
+
+Python version used is 3.5 . To install other dependencies 
+
 
 ### Installing
 
@@ -32,18 +36,16 @@ Enter the user twitter handle and then click on Enter button to get results.
 
 ## Running the tests
 
-For Example
-Enter the handle: narendramodi
 
 ## Deployment
 
-You can deploy it using android studio
+The python code is deployed using the IBM CloudFoundry platform, for more details [look](https://www.ibm.com/cloud/cloud-foundry)
 
 ## Built With
 
 * [IBM Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/) - For sentiment analysis
 * [Tweepy](http://www.tweepy.org/) - All the tweet work
-* [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundryhttps://www.ibm.com/cloud/cloud-foundry) - Deployment
+* [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundry) - Deployment
 * [Python 3.5](https://www.python.org/downloads/) - The backend programming language
 * [Flask](http://flask.pocoo.org/) - Web framework used
 * [Json](https://developer.android.com/reference/org/json/JSONObject) - Used to parse the data from server 
