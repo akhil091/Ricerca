@@ -37,11 +37,15 @@ In python code directory run:
 
 This will start flask local server for the python code.
 
-**Running tests on server**  
+**Running tests on server**    
 
-Just run the *test_server.py* script that makes a Http post request to our local flask server. If everything went fine you'll  
+Just run :
 
-see the json response printed to the terminal.
+    python test_server.py
+
+This script will make a Http post request to our local flask server. If everything went fine you'll  see the json response printed to 
+
+the terminal.
 
 
 ## Deployment
