@@ -41,6 +41,9 @@ You can deploy it using android studio
 
 ## Built With
 
+* [IBM Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/) - For sentiment analysis
+* [Tweepy](http://www.tweepy.org/) - All the tweet work
+* [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundryhttps://www.ibm.com/cloud/cloud-foundry) - Deployment
 * [Python 3.5](https://www.python.org/downloads/) - The backend programming language
 * [Flask](http://flask.pocoo.org/) - Web framework used
 * [Json](https://developer.android.com/reference/org/json/JSONObject) - Used to parse the data from server 
