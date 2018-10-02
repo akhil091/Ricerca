@@ -44,7 +44,7 @@ This will start flask local server for the python code.
 Just run :  
 
     pip install requests
-    python test_server.py
+    python server_test.py
 
 This script will make a Http post request to our local flask server. If everything went fine you'll  see the json response printed to the terminal.
 
